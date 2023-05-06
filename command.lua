@@ -1,2 +1,1 @@
-Tablesss = {"Hi"}
-return Tablesss
+{"Apple","Orange","Mairo","Villager","Commands","Roblox"}
