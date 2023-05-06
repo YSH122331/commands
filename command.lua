@@ -1,1 +1,1 @@
-local Table = {"Loca","Stora"}
+print("Q")
