@@ -1,1 +1,1 @@
-print("Q")
+Tablesss = {"Hi"}
